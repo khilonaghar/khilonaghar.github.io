@@ -25,6 +25,7 @@ body {
 	background-color: #4ac7d3;
 	color: #ffffff;
 	padding: 31px 0 50px 0;
+	transition:width 2s ease;
 }
 
 body {
@@ -122,6 +123,8 @@ body {
 	height: 414px;
 	width: 1135.922px;
 	transition: width 2s linear, width 2s ease;
+	float:left;	
+    position:relative;
 }
 
 #ix1foz {
@@ -139,6 +142,7 @@ body {
 	background-position: left top;
 	background-attachment: scroll;
 	background-size: auto;
+	transition:width 2s ease;
 }
 
 @keyframes fadeEffect {
