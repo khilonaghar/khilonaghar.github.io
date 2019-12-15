@@ -9,19 +9,19 @@ body {
 .heading {
 	padding: 10px;
 	margin: 5px 0 18.72px 0;
-	font-family: Comic Sans MS, sans-serif;
+	font-family: Comic Sans MS, cursive, sans-serif;
 }
 
 .paragraph {
 	padding: 10px;
-	font-family: Comic Sans MS, sans-serif;
+	font-family: Comic Sans MS, cursive, sans-serif;
 	text-align: justify;
 }
 
 .bdg-sect {
 	padding-top: 100px;
 	padding-bottom: 100px;
-	font-family: sans-serif,Helvetica,serif;
+	font-family: Helvetica, serif;
 	background-color: #4ac7d3;
 	color: #ffffff;
 	padding: 31px 0 50px 0;
@@ -64,7 +64,7 @@ body {
 	min-width: 50px;
 	color: inherit;
 	text-decoration: none;
-	font-family: Comic Sans MS, sans-serif;
+	font-family: Comic Sans MS, cursive, sans-serif;
 	float: none;
 	font-size: 27px;
 	opacity: 1;
@@ -87,7 +87,7 @@ body {
 	text-decoration: none;
 	display: inline-block;
 	padding: 10px 15px;
-	font-family: Comic Sans MS, sans-serif;
+	font-family: Comic Sans MS, cursive, sans-serif;
 }
 
 .navbar-burger {
@@ -142,7 +142,6 @@ body {
 	background-position: left top;
 	background-attachment: scroll;
 	background-size: auto;
-	transition:width 2s ease;
 }
 
 @keyframes fadeEffect {
